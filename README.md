@@ -22,7 +22,7 @@ In unsupervised feature learning, sample specificity based methods ignore the in
 
 
 #### Reference：
-We thank the open source code [CVPR18: Unsupervised Feature Learning via Non-Parametric Instance Discrimination](https://github.com/zhirongw/lemniscate.pytorch) and [CVPR19: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning).
+We thank the open source code [CVPR18: Unsupervised Feature Learning via Non-Parametric Instance Discrimination](https://github.com/zhirongw/lemniscate.pytorch), [ECCV2018: Deep Clustering for Unsupervised Learning of Visual Features](https://github.com/facebookresearch/deepcluster), [CVPR19: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning) and [ICML19: Unsupervised Deep Learning by Neighbourhood Discovery](https://github.com/Raymond-sci/AND).
 
 
 #### Contact:

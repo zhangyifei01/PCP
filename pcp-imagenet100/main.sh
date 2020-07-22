@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6,7 python main.py --cluster-ratio 0.5 --nmb_cluster 10000 --high-ratio 0.5 --beta -2.85 --warm-epoch 100 --stage-update 180 --batch-t 0.1 --lr 0.03 --low-dim 128 --batch-size 128 --verbose --nce-t 0.1

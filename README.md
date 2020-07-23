@@ -2,7 +2,7 @@
 
 Pipeline of PCP.
 
-![pcp_fig1](https://github.com/zhangyifei0115/PCP/tree/master/pic/PCP-Fig1.png)
+![pcp_fig1](https://github.com/zhangyifei0115/PCP/pic/PCP-Fig1.png)
 
 ![pcp_fig2](https://github.com/zhangyifei0115/PCP/tree/master/pic/PCP-Fig2.png)
 

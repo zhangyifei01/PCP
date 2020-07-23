@@ -2,9 +2,9 @@
 
 Pipeline of PCP.
 
-![PCP-Fig1](https://img-blog.csdnimg.cn/20200721001531308.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg3MjU3OA==,size_16,color_FFFFFF,t_70)
+![PCP-Fig1](https://github.com/zhangyifei0115/PCP/tree/master/pic/PCP-Fig1.png)
 
-![PCP-Fig2](https://img-blog.csdnimg.cn/20200721003129969.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg3MjU3OA==,size_16,color_FFFFFF,t_70)
+![PCP-Fig2](https://github.com/zhangyifei0115/PCP/tree/master/pic/PCP-Fig2.png)
 
 This is a PyTorch implementation of the [PCP paper](https://arxiv.org/abs/2007.02577):
 

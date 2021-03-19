@@ -43,7 +43,7 @@ oauthlib==3.1.0
 olefile==0.45.1
 opt-einsum==3.1.0
 pandas==0.25.0
-Pillow==6.2.2
+Pillow==8.1.1
 plotly==4.1.0
 prettytable==0.7.2
 protobuf==3.10.0
